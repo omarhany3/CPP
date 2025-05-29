@@ -1,5 +1,5 @@
 
-# Shop-With-Me
+# Shop With Me
 
 **Shop-With-Me** is an Online Shop Management System featuring a graphical user interface (GUI) developed using C++ and Qt. It facilitates efficient management of products, customers, and orders, making it suitable for small to medium-sized retail businesses.
 
